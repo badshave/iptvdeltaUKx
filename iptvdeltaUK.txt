@@ -1,0 +1,513 @@
+#EXTINF:-1 tvg-id="" tvg-name="##########   United Kingdom   ##########" tvg-logo="" group-title="United Kingdom",##########   United Kingdom   ##########
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/2524
+#EXTINF:-1 tvg-id="E4 Extra UK" tvg-name="E4 Extra UK" tvg-logo="" group-title="United Kingdom",E4 Extra UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/113641
+#EXTINF:-1 tvg-id="Magic UK" tvg-name="Magic TV UK" tvg-logo="" group-title="United Kingdom",Magic TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/113640
+#EXTINF:-1 tvg-id="3e UK" tvg-name="Virgin two HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png?raw=true" group-title="United Kingdom",Virgin two HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1790
+#EXTINF:-1 tvg-id="4Music UK" tvg-name="4Music UK" tvg-logo="http://tugapt.com/picons/4musicuk.png" group-title="United Kingdom",4Music UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1936
+#EXTINF:-1 tvg-id="4seven UK" tvg-name="4Seven UK" tvg-logo="http://tugapt.com/picons/4sevenuk.png" group-title="United Kingdom",4Seven UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1937
+#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5Star UK" tvg-logo="http://tugapt.com/picons/5staruk.png" group-title="United Kingdom",5Star UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1963
+#EXTINF:-1 tvg-id="5USA UK" tvg-name="5USA UK" tvg-logo="http://tugapt.com/picons/5usauk.png" group-title="United Kingdom",5USA UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1964
+#EXTINF:-1 tvg-id="AMC from BT UK" tvg-name="AMC From BT UK" tvg-logo="http://tugapt.com/picons/amcfrombtuk.png" group-title="United Kingdom",AMC From BT UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1892
+#EXTINF:-1 tvg-id="at the races UK" tvg-name="S Sports Racing FHD UK" tvg-logo="http://tugapt.com/picons/attheracesuk.png" group-title="United Kingdom",S Sports Racing FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1801
+#EXTINF:-1 tvg-id="Alibi UK" tvg-name="Alibi UK" tvg-logo="http://tugapt.com/picons/alibiuk.png" group-title="United Kingdom",Alibi UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1916
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet +1 UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1878
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1879
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four HD UK" tvg-logo="http://tugapt.com/picons/bbcfourhduk.png" group-title="United Kingdom",BBC Four HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1990
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK" tvg-logo="http://tugapt.com/picons/bbcfouruk.png" group-title="United Kingdom",BBC Four UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1989
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News HD UK" tvg-logo="http://tugapt.com/picons/bbcnewshduk.png" group-title="United Kingdom",BBC News HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1777
+#EXTINF:-1 tvg-id="Talk TV UK" tvg-name="TalkTV UK" tvg-logo="" group-title="United Kingdom",TalkTV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/105929
+#EXTINF:-1 tvg-id="BBC One CI UK" tvg-name="BBC One Channel Islands UK" tvg-logo="http://tugapt.com/picons/bbconechannelislandsuk.png" group-title="United Kingdom",BBC One Channel Islands UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1776
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="http://tugapt.com/picons/bbconehduk.png" group-title="United Kingdom",BBC One HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1998
+#EXTINF:-1 tvg-id="BBC One NI HD UK" tvg-name="BBC One Northern Ireland UK" tvg-logo="http://tugapt.com/picons/bbconenorthernirelanduk.png" group-title="United Kingdom",BBC One Northern Ireland UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/2000
+#EXTINF:-1 tvg-id="BBC One Oxford UK" tvg-name="BBC One Oxford UK" tvg-logo="http://tugapt.com/picons/bbconeoxforduk.png" group-title="United Kingdom",BBC One Oxford UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1775
+#EXTINF:-1 tvg-id="BBC One Scot UK" tvg-name="BBC One Scotland UK" tvg-logo="http://tugapt.com/picons/bbconescotlanduk.png" group-title="United Kingdom",BBC One Scotland UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1786
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One UK" tvg-logo="http://tugapt.com/picons/bbconeuk.png" group-title="United Kingdom",BBC One UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1997
+#EXTINF:-1 tvg-id="BBC One Wales UK" tvg-name="BBC One Wales UK" tvg-logo="http://tugapt.com/picons/bbconewalesuk.png" group-title="United Kingdom",BBC One Wales UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/2002
+#EXTINF:-1 tvg-id="BBC One Yorks UK" tvg-name="BBC One Yorks UK" tvg-logo="http://tugapt.com/picons/bbconeyorksuk.png" group-title="United Kingdom",BBC One Yorks UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1774
+#EXTINF:-1 tvg-id="BBC Parliament UK" tvg-name="BBC Parliament UK" tvg-logo="http://tugapt.com/picons/bbcparliamentuk.png" group-title="United Kingdom",BBC Parliament UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/2003
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two HD UK" tvg-logo="http://tugapt.com/picons/bbctwohduk.png" group-title="United Kingdom",BBC Two HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1995
+#EXTINF:-1 tvg-id="BBC Two Scotland UK" tvg-name="BBC Two Scotland UK" tvg-logo="http://tugapt.com/picons/bbctwoscotlanduk.png" group-title="United Kingdom",BBC Two Scotland UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/2004
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="http://tugapt.com/picons/bbctwouk.png" group-title="United Kingdom",BBC Two UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1994
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-logo="http://tugapt.com/picons/bbcworldnewsuk.png" group-title="United Kingdom",BBC World News UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/2006
+#EXTINF:-1 tvg-id="BET UK" tvg-name="BET UK" tvg-logo="http://tugapt.com/picons/betuk.png" group-title="United Kingdom",BET UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1961
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/369
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/370
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/5716
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/367
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/368
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/5715
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/365
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/366
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/5714
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports5_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 5 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1818
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 6 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports6_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 6 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1817
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 7 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports7_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 7 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1816
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 8 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports8_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 8 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1815
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 9 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports9_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 9 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1814
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="TNT Sports 4 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 4 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1743
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="TNT Sports 4 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 4 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1819
+#EXTINF:-1 tvg-id="Baby TV UK" tvg-name="Baby TV UK" tvg-logo="http://tugapt.com/picons/babytvuk.png" group-title="United Kingdom",Baby TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1852
+#EXTINF:-1 tvg-id="Blaze UK" tvg-name="Blaze UK" tvg-logo="http://tugapt.com/picons/blazeuk.png" group-title="United Kingdom",Blaze UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1787
+#EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="http://tugapt.com/picons/bloombergtvuk.png" group-title="United Kingdom",Bloomberg TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1770
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang +1 UK" tvg-logo="http://tugapt.com/picons/boomerangplus1uk.png" group-title="United Kingdom",Boomerang +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1769
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang UK" tvg-logo="http://tugapt.com/picons/boomeranguk.png" group-title="United Kingdom",Boomerang UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1862
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="http://tugapt.com/picons/boxhitsuk.png" group-title="United Kingdom",Box Hits UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1768
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="http://tugapt.com/picons/cbbchduk.png" group-title="United Kingdom",CBBC HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1993
+#EXTINF:-1 tvg-id="CBS Action UK" tvg-name="CBS Justice UK" tvg-logo="http://tugapt.com/picons/cbsactionuk.png" group-title="United Kingdom",CBS Justice UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1909
+#EXTINF:-1 tvg-id="CBS Drama UK" tvg-name="RealityXtra UK" tvg-logo="http://tugapt.com/picons/cbsdramauk.png" group-title="United Kingdom",RealityXtra UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1908
+#EXTINF:-1 tvg-id="CBS Reality UK" tvg-name="CBS Reality UK" tvg-logo="http://tugapt.com/picons/cbsrealityuk.png" group-title="United Kingdom",CBS Reality UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1910
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies HD UK" tvg-logo="http://tugapt.com/picons/cbeebieshduk.png" group-title="United Kingdom",CBeebies HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1741
+#EXTINF:-1 tvg-id="CITV UK" tvg-name="CITV UK" tvg-logo="http://tugapt.com/picons/citvuk.png" group-title="United Kingdom",CITV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1740
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN UK" tvg-logo="http://tugapt.com/picons/cnnuk.png" group-title="United Kingdom",CNN UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1764
+#EXTINF:-1 tvg-id="Cartoon Network UK" tvg-name="Cartoon Network UK" tvg-logo="http://tugapt.com/picons/cartoonnetworkuk.png" group-title="United Kingdom",Cartoon Network UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1857
+#EXTINF:-1 tvg-id="Cartoonito UK" tvg-name="Cartoonito UK" tvg-logo="http://tugapt.com/picons/cartoonitouk.png" group-title="United Kingdom",Cartoonito UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1865
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge +1 UK" tvg-logo="http://tugapt.com/picons/challengeuk.png" group-title="United Kingdom",Challenge +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1944
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge UK" tvg-logo="http://tugapt.com/picons/challengeuk.png" group-title="United Kingdom",Challenge UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1782
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 HD UK" tvg-logo="http://tugapt.com/picons/channel4hduk.png" group-title="United Kingdom",Channel 4 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1970
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://tugapt.com/picons/channel4uk.png" group-title="United Kingdom",Channel 4 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1972
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 HD UK" tvg-logo="http://tugapt.com/picons/channel5hduk.png" group-title="United Kingdom",Channel 5 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1967
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://tugapt.com/picons/channel5uk.png" group-title="United Kingdom",Channel 5 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1968
+#EXTINF:-1 tvg-id="Chart Show TV UK" tvg-name="Trace Urban UK" tvg-logo="http://tugapt.com/picons/chartshowtvuk.png" group-title="United Kingdom",Trace Urban UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1765
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra +1 UK" tvg-logo="http://tugapt.com/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1894
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra UK" tvg-logo="http://tugapt.com/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1895
+#EXTINF:-1 tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://tugapt.com/picons/comedycentraluk.png" group-title="United Kingdom",Comedy Central UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1896
+#EXTINF:-1 tvg-id="CrimeplusInvestigation UK" tvg-name="Crime+Investigation +1 UK" tvg-logo="http://tugapt.com/picons/crimeplusinvestigationuk.png" group-title="United Kingdom",Crime+Investigation +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1880
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX +1 UK" tvg-logo="http://tugapt.com/picons/dmaxuk.png" group-title="United Kingdom",DMAX +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1876
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://tugapt.com/picons/dmaxuk.png" group-title="United Kingdom",DMAX UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1877
+#EXTINF:-1 tvg-id="Dave UK" tvg-name="Dave UK" tvg-logo="http://tugapt.com/picons/daveuk.png" group-title="United Kingdom",Dave UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1911
+#EXTINF:-1 tvg-id="Dave ja vu UK" tvg-name="Dave ja vu UK" tvg-logo="http://tugapt.com/picons/davejavuuk.png" group-title="United Kingdom",Dave ja vu UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1788
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery Channel UK" tvg-logo="http://tugapt.com/picons/discoverychanneluk.png" group-title="United Kingdom",Discovery Channel UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1886
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History +1 UK" tvg-logo="http://tugapt.com/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1872
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://tugapt.com/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1873
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science +1 UK" tvg-logo="http://tugapt.com/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1874
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://tugapt.com/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1875
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://tugapt.com/picons/discoveryturbouk.png" group-title="United Kingdom",Discovery Turbo UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1884
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel +1 UK" tvg-logo="http://tugapt.com/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1843
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel UK" tvg-logo="http://tugapt.com/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1844
+#EXTINF:-1 tvg-id="Disney Junior UK" tvg-name="Disney Junior +1 UK" tvg-logo="http://tugapt.com/picons/disneyjunioruk.png" group-title="United Kingdom",Disney Junior +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1762
+#EXTINF:-1 tvg-id="Disney Junior UK" tvg-name="Disney Junior UK" tvg-logo="http://tugapt.com/picons/disneyjunioruk.png" group-title="United Kingdom",Disney Junior UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1845
+#EXTINF:-1 tvg-id="Drama UK" tvg-name="Drama UK" tvg-logo="http://tugapt.com/picons/dramauk.png" group-title="United Kingdom",Drama UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1863
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! UK" tvg-logo="http://tugapt.com/picons/euk.png" group-title="United Kingdom",E! UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1934
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 +1 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1965
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1966
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden +1 UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1946
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1935
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 HD UK" tvg-logo="http://tugapt.com/picons/eurosport1hduk.png" group-title="United Kingdom",Eurosport 1 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1812
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 HD UK" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="United Kingdom",Eurosport 2 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1811
+#EXTINF:-1 tvg-id="FOX News UK" tvg-name="FOX News UK" tvg-logo="http://tugapt.com/picons/foxnewsuk.png" group-title="United Kingdom",FOX News UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1760
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK" tvg-logo="http://tugapt.com/picons/film4uk.png" group-title="United Kingdom",Film4 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1830
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network +1 UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1941
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1942
+#EXTINF:-1 tvg-id="" tvg-name="Free Sports HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" group-title="United Kingdom VIP",Free Sports HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/50437
+#EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="GINX eSports TV UK" tvg-logo="http://tugapt.com/picons/ginxesportstvuk.png" group-title="United Kingdom",GINX eSports TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1758
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD +1 UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1947
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1915
+#EXTINF:-1 tvg-id="H2 UK" tvg-name="H2 UK" tvg-logo="http://tugapt.com/picons/h2uk.png" group-title="United Kingdom",H2 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1871
+#EXTINF:-1 tvg-id="Hillsong UK" tvg-name="TBN UK" tvg-logo="http://tugapt.com/picons/hillsongchanneluk.png" group-title="United Kingdom",TBN UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1757
+#EXTINF:-1 tvg-id="History UK" tvg-name="History +1 UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/history-channel-plus-uk.png?raw=true" group-title="United Kingdom",History +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1866
+#EXTINF:-1 tvg-id="History UK" tvg-name="History UK" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="United Kingdom",History UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1867
+#EXTINF:-1 tvg-id="Home UK" tvg-name="HGTV +1 UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",HGTV +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1869
+#EXTINF:-1 tvg-id="Home UK" tvg-name="Home UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",Home UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1870
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel +1 UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1926
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1825
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV +1 UK" tvg-logo="http://tugapt.com/picons/itvplus1uk.png" group-title="United Kingdom",ITV +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1984
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV 1 UK" tvg-logo="http://tugapt.com/picons/itvuk.png" group-title="United Kingdom",ITV 1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1985
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 +1 UK" tvg-logo="http://tugapt.com/picons/itv2plus1uk.png" group-title="United Kingdom",ITV2 +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1981
+#EXTINF:-1 tvg-id="ITV2 HD UK" tvg-name="ITV2 HD UK" tvg-logo="http://tugapt.com/picons/itv2hduk.png" group-title="United Kingdom",ITV2 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1983
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="http://tugapt.com/picons/itv2uk.png" group-title="United Kingdom",ITV2 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1982
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 +1 UK" tvg-logo="http://tugapt.com/picons/itv3plus1uk.png" group-title="United Kingdom",ITV3 +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1978
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 UK" tvg-logo="http://tugapt.com/picons/itv3uk.png" group-title="United Kingdom",ITV3 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1979
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 +1 UK" tvg-logo="http://tugapt.com/picons/itv4plus1uk.png" group-title="United Kingdom",ITV4 +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1975
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="http://tugapt.com/picons/itv4uk.png" group-title="United Kingdom",ITV4 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1976
+#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe +1 UK" tvg-logo="http://tugapt.com/picons/itvbeplus1uk.png" group-title="United Kingdom",ITVBe +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1974
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Investigation Discovery UK" tvg-logo="http://tugapt.com/picons/investigationdiscoveryuk.png" group-title="United Kingdom",Investigation Discovery UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1883
+#EXTINF:-1 tvg-id="KISS UK" tvg-name="KISS UK" tvg-logo="http://tugapt.com/picons/kissuk.png" group-title="United Kingdom",KISS UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1929
+#EXTINF:-1 tvg-id="Kix UK" tvg-name="Pop Max UK" tvg-logo="http://tugapt.com/picons/kixuk.png" group-title="United Kingdom",Pop Max UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1756
+#EXTINF:-1 tvg-id="Kerrang! TV UK" tvg-name="Kerrang! TV UK" tvg-logo="http://tugapt.com/picons/kerrangtvuk.png" group-title="United Kingdom",Kerrang! TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1928
+#EXTINF:-1 tvg-id="LFC TV UK" tvg-name="LFC TV UK" tvg-logo="http://tugapt.com/picons/lfctvuk.png" group-title="United Kingdom",LFC TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1802
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV +1 UK" tvg-logo="http://tugapt.com/picons/mtvuk.png" group-title="United Kingdom",MTV +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1834
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="Rap 2K Music TV UK" tvg-logo="http://tugapt.com/picons/mtv90suk.png" group-title="United Kingdom",Rap 2K Music TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1754
+#EXTINF:-1 tvg-id="MTV Base UK" tvg-name="MTV Base UK" tvg-logo="http://tugapt.com/picons/mtvbaseuk.png" group-title="United Kingdom",MTV Base UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1836
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="MTV Classic UK" tvg-logo="http://tugapt.com/picons/mtvclassicuk.png" group-title="United Kingdom",MTV Classic UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1837
+#EXTINF:-1 tvg-id="MTV Dance UK" tvg-name="MTV Dance UK" tvg-logo="http://tugapt.com/picons/mtvdanceuk.png" group-title="United Kingdom",MTV Dance UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1838
+#EXTINF:-1 tvg-id="MTV Hits UK" tvg-name="MTV Hits UK" tvg-logo="http://tugapt.com/picons/mtvhitsuk.png" group-title="United Kingdom",MTV Hits UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1839
+#EXTINF:-1 tvg-id="MTV Music UK" tvg-name="MTV Music UK" tvg-logo="http://tugapt.com/picons/mtvmusicuk.png" group-title="United Kingdom",MTV Music UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1840
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV UK" tvg-logo="http://tugapt.com/picons/mtvuk.png" group-title="United Kingdom",MTV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1835
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MU TV HD UK" tvg-logo="http://tugapt.com/picons/mutvhduk.png" group-title="United Kingdom",MU TV HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1797
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV HD UK" tvg-logo="http://tugapt.com/picons/mutvhduk.png" group-title="United Kingdom",MUTV HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1810
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV UK" tvg-logo="http://tugapt.com/picons/mutvuk.png" group-title="United Kingdom",MUTV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1809
+#EXTINF:-1 tvg-id="More4 UK" tvg-name="More4 UK" tvg-logo="http://tugapt.com/picons/more4uk.png" group-title="United Kingdom",More4 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1930
+#EXTINF:-1 tvg-id="Motors TV UK" tvg-name="Motors TV HD UK" tvg-logo="http://tugapt.com/picons/motorstvuk.png" group-title="United Kingdom",Motors TV HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1891
+#EXTINF:-1 tvg-id="Movies 24 UK" tvg-name="Movies 24 UK" tvg-logo="http://tugapt.com/picons/movies24uk.png" group-title="United Kingdom",Movies 24 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1829
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="Nat Geo Wild UK" tvg-logo="http://tugapt.com/picons/natgeowilduk.png" group-title="United Kingdom",Nat Geo Wild UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1889
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. +1 UK" tvg-logo="http://tugapt.com/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1849
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Peppa UK" tvg-logo="http://tugapt.com/picons/nickjrpeppauk.png" group-title="United Kingdom",Nick Jr. Peppa UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1753
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Too UK" tvg-logo="http://tugapt.com/picons/nickjrtoouk.png" group-title="United Kingdom",Nick Jr. Too UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1848
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. UK" tvg-logo="http://tugapt.com/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1850
+#EXTINF:-1 tvg-id="NickToons UK" tvg-name="NickToons UK" tvg-logo="http://tugapt.com/picons/nicktoonsuk.png" group-title="United Kingdom",NickToons UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1864
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon +1 UK" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1858
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon UK" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1859
+#EXTINF:-1 tvg-id="PBS America UK" tvg-name="PBS America UK" tvg-logo="http://tugapt.com/picons/pbsamericauk.png" group-title="United Kingdom",PBS America UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1791
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP +1 UK" tvg-logo="http://tugapt.com/picons/popuk.png" group-title="United Kingdom",POP +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1751
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP UK" tvg-logo="http://tugapt.com/picons/popuk.png" group-title="United Kingdom",POP UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1752
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick +1 UK" tvg-logo="http://tugapt.com/picons/pickuk.png" group-title="United Kingdom",Pick +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1951
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick UK" tvg-logo="http://tugapt.com/picons/pickuk.png" group-title="United Kingdom",Pick UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1853
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports HD UK" tvg-logo="http://tugapt.com/picons/premiersportshduk.png" group-title="United Kingdom",Premier Sports HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1807
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports 1 UK" tvg-logo="http://tugapt.com/picons/premiersportsuk.png" group-title="United Kingdom",Premier Sports 1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1808
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED +1 UK" tvg-logo="http://tugapt.com/picons/questreduk.png" group-title="United Kingdom",QUEST RED +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1749
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED UK" tvg-logo="http://tugapt.com/picons/questreduk.png" group-title="United Kingdom",QUEST RED UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1750
+#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="http://tugapt.com/picons/questuk.png" group-title="United Kingdom",QUEST UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1890
+#EXTINF:-1 tvg-id="RTE Jr UK" tvg-name="RTÉ Jr UK" tvg-logo="http://tugapt.com/picons/rtejruk.png" group-title="United Kingdom",RTÉ Jr UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1854
+#EXTINF:-1 tvg-id="RTE News Now UK" tvg-name="RTÉ News Now UK" tvg-logo="http://tugapt.com/picons/rtenewsnowuk.png" group-title="United Kingdom",RTÉ News Now UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1748
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One HD UK" tvg-logo="http://tugapt.com/picons/rteonehduk.png" group-title="United Kingdom",RTÉ One HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1933
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One UK" tvg-logo="http://tugapt.com/picons/rteoneuk.png" group-title="United Kingdom",RTÉ One UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1856
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two HD UK" tvg-logo="http://tugapt.com/picons/rtetwohduk.png" group-title="United Kingdom",RTÉ Two HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1932
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two UK" tvg-logo="http://tugapt.com/picons/rtetwouk.png" group-title="United Kingdom",RTÉ Two UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1855
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing UK" tvg-logo="http://tugapt.com/picons/racinguk.png" group-title="United Kingdom",Racing UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1800
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="S Crime UK" tvg-logo="http://tugapt.com/picons/reallivesuk.png" group-title="United Kingdom",S Crime UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1952
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="Real Lives UK" tvg-logo="http://tugapt.com/picons/reallivesuk.png" group-title="United Kingdom",Real Lives UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1939
+#EXTINF:-1 tvg-id="Really UK" tvg-name="Really UK" tvg-logo="http://tugapt.com/picons/reallyuk.png" group-title="United Kingdom",Really UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1940
+#EXTINF:-1 tvg-id="S4C UK" tvg-name="S4C UK" tvg-logo="http://tugapt.com/picons/s4cuk.png" group-title="United Kingdom",S4C UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1931
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="S 1 HD UK" tvg-logo="http://tugapt.com/picons/sky1hduk.png" group-title="United Kingdom",S 1 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1920
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="S 1 UK" tvg-logo="http://tugapt.com/picons/sky1uk.png" group-title="United Kingdom",S 1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1919
+#EXTINF:-1 tvg-id="Sky 2 UK" tvg-name="S 2 UK" tvg-logo="http://tugapt.com/picons/sky2uk.png" group-title="United Kingdom",S 2 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1918
+#EXTINF:-1 tvg-id="Sky Arts UK" tvg-name="S Arts UK" tvg-logo="http://tugapt.com/picons/skyartsuk.png" group-title="United Kingdom",S Arts UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1917
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="S Atlantic +1 UK" tvg-logo="http://tugapt.com/picons/skyatlanticplus1uk.png" group-title="United Kingdom",S Atlantic +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1921
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="S Atlantic UK" tvg-logo="http://tugapt.com/picons/skyatlanticuk.png" group-title="United Kingdom",S Atlantic UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1922
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="S Cinema Action &amp; Adventure HD UK" tvg-logo="http://tugapt.com/picons/skycinemaactionandadventurehduk.png" group-title="United Kingdom",S Cinema Action &amp; Adventure HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/351
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="S Cinema Action & Adventure UK" tvg-logo="http://tugapt.com/picons/skycinemaactionandadventureuk.png" group-title="United Kingdom",S Cinema Action & Adventure UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/352
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="S Cinema Comedy HD UK" tvg-logo="http://tugapt.com/picons/skycinemacomedyhduk.png" group-title="United Kingdom",S Cinema Comedy HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/349
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Cinema Comedy UK" tvg-logo="http://tugapt.com/picons/skycinemacomedyuk.png" group-title="United Kingdom",Sky Cinema Comedy UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/350
+#EXTINF:-1 tvg-id="Sky Movies Crime Thriller UK" tvg-name="S Cinema Crime & Thriller UK" tvg-logo="http://tugapt.com/picons/skycinemacrimeandthrilleruk.png" group-title="United Kingdom",S Cinema Crime & Thriller UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/348
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-name="S Cinema Drama & Romance UK" tvg-logo="http://tugapt.com/picons/skycinemadramaandromanceuk.png" group-title="United Kingdom",S Cinema Drama & Romance UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/345
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="S Cinema Family HD UK" tvg-logo="http://tugapt.com/picons/skycinemafamilyhduk.png" group-title="United Kingdom",S Cinema Family HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/343
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="S Cinema Family UK" tvg-logo="http://tugapt.com/picons/skycinemafamilyuk.png" group-title="United Kingdom",S Cinema Family UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/344
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-name="S Cinema Greats UK" tvg-logo="http://tugapt.com/picons/skycinemagreatsuk.png" group-title="United Kingdom",S Cinema Greats UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/342
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="S Cinema Premiere +1 UK" tvg-logo="http://tugapt.com/picons/skycinemapremiereplus1uk.png" group-title="United Kingdom",S Cinema Premiere +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1824
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="S Cinema Premiere UK" tvg-logo="http://tugapt.com/picons/skycinemapremiereuk.png" group-title="United Kingdom",S Cinema Premiere UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/341
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-name="S Cinema Sci-Fi &amp; Horror UK" tvg-logo="http://tugapt.com/picons/skycinemascifiandhorroruk.png" group-title="United Kingdom",S Cinema Sci-Fi &amp; Horror UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/340
+#EXTINF:-1 tvg-id="Sky Cinema Select UK" tvg-name="S Cinema Select UK" tvg-logo="http://tugapt.com/picons/skycinemaselectuk.png" group-title="United Kingdom",S Cinema Select UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/339
+#EXTINF:-1 tvg-id="Sky Living UK" tvg-name="S Living UK" tvg-logo="http://tugapt.com/picons/skylivinguk.png" group-title="United Kingdom",S Living UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1924
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="S News UK" tvg-logo="http://tugapt.com/picons/skynewsuk.png" group-title="United Kingdom",S News UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1925
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="S Sports Action HD UK" tvg-logo="http://tugapt.com/picons/skysports3hduk.png" group-title="United Kingdom",S Sports Action HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/333
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="S Sports Action UK" tvg-logo="http://tugapt.com/picons/skysports3uk.png" group-title="United Kingdom",S Sports Action UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/374
+#EXTINF:-1 tvg-id="Sky Sports Arena HD UK" tvg-name="S Sports Arena HD UK" tvg-logo="http://tugapt.com/picons/skysportsarenahduk.png" group-title="United Kingdom",S Sports Arena HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/6201
+#EXTINF:-1 tvg-id="Sky Sports Arena HD UK" tvg-name="S Sports Arena UK" tvg-logo="http://tugapt.com/picons/skysportsarenauk.png" group-title="United Kingdom",S Sports Arena UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/6200
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="S Sports Cricket HD UK" tvg-logo="http://tugapt.com/picons/skysports2hduk.png" group-title="United Kingdom",S Sports Cricket HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/334
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="S Sports Cricket UK" tvg-logo="http://tugapt.com/picons/skysports2uk.png" group-title="United Kingdom",S Sports Cricket UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/375
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="S Sports F1 HD UK" tvg-logo="http://tugapt.com/picons/skysportsf1hduk.png" group-title="United Kingdom",S Sports F1 HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/371
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="S Sports F1 UK" tvg-logo="http://tugapt.com/picons/skysportsf1uk.png" group-title="United Kingdom",S Sports F1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/337
+#EXTINF:-1 tvg-id="Sky Sports Football HD UK" tvg-name="S Sports Football HD UK" tvg-logo="http://tugapt.com/picons/skysportsfootballhduk.png" group-title="United Kingdom",S Sports Football HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/6204
+#EXTINF:-1 tvg-id="Sky Sports Football HD UK" tvg-name="S Sports Football UK" tvg-logo="http://tugapt.com/picons/skysportsfootballuk.png" group-title="United Kingdom",S Sports Football UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/6203
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports Golf HD UK" tvg-logo="http://tugapt.com/picons/skysports4hduk.png" group-title="United Kingdom",Sky Sports Golf HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/332
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="S Sports Golf UK" tvg-logo="http://tugapt.com/picons/skysports4uk.png" group-title="United Kingdom",S Sports Golf UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/373
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="S Sports Main Event HD UK" tvg-logo="http://tugapt.com/picons/skysports1hduk.png" group-title="United Kingdom",S Sports Main Event HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/335
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="S Sports Main Event UK" tvg-logo="http://tugapt.com/picons/skysports1uk.png" group-title="United Kingdom",S Sports Main Event UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/376
+#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="S Sports Mix HD UK" tvg-logo="http://tugapt.com/picons/skysportsmixhduk.png" group-title="United Kingdom",S Sports Mix HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1821
+#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News HQ UK" tvg-logo="http://tugapt.com/picons/skysportsnewshquk.png" group-title="United Kingdom",Sky Sports News HQ UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/336
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="S Sports Premier League HD UK" tvg-logo="http://tugapt.com/picons/skysports5hduk.png" group-title="United Kingdom",S Sports Premier League HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/331
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="S Sports Premier League UK" tvg-logo="http://tugapt.com/picons/skysports5uk.png" group-title="United Kingdom",S Sports Premier League UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/372
+#EXTINF:-1 tvg-id="Sony UK" tvg-name="GREAT! tv UK" tvg-logo="http://tugapt.com/picons/sonyuk.png" group-title="United Kingdom",GREAT! tv UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1943
+#EXTINF:-1 tvg-id="Starz TV UK" tvg-name="Starz TV UK" tvg-logo="http://tugapt.com/picons/starztvuk.png" group-title="United Kingdom",Starz TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1746
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy +1 UK" tvg-logo="http://tugapt.com/picons/syfyuk.png" group-title="United Kingdom",Syfy +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1899
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy UK" tvg-logo="http://tugapt.com/picons/syfyuk.png" group-title="United Kingdom",Syfy UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1900
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM +1 UK" tvg-logo="http://tugapt.com/picons/tcmuk.png" group-title="United Kingdom",TCM +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1954
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM UK" tvg-logo="http://tugapt.com/picons/tcmuk.png" group-title="United Kingdom",TCM UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1955
+#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="http://tugapt.com/picons/tg4uk.png" group-title="United Kingdom",TG4 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1793
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC +1 UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/tlc-plus-uk.png?raw=true" group-title="United Kingdom",TLC +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1902
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC UK" tvg-logo="http://tugapt.com/picons/tlcuk.png" group-title="United Kingdom",TLC UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1903
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry HD UK" tvg-logo="https://logodix.com/logo/330403.png" group-title="United Kingdom",Tom And Jerry HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/10560
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 +1 UK" tvg-logo="http://tugapt.com/picons/tv3plus1uk.png" group-title="United Kingdom",TV3 +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1957
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 UK" tvg-logo="http://tugapt.com/picons/tv3uk.png" group-title="United Kingdom",TV3 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1958
+#EXTINF:-1 tvg-id="The Box UK" tvg-name="The Box UK" tvg-logo="http://tugapt.com/picons/theboxuk.png" group-title="United Kingdom",The Box UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1745
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop +1 UK" tvg-logo="http://tugapt.com/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1860
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop UK" tvg-logo="http://tugapt.com/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1861
+#EXTINF:-1 tvg-id="UTV UK" tvg-name="UTV HD UK" tvg-logo="http://tugapt.com/picons/utvuk.png" group-title="United Kingdom",UTV HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1959
+#EXTINF:-1 tvg-id="VH1 UK" tvg-name="VH1 UK" tvg-logo="http://tugapt.com/picons/vh1uk.png" group-title="United Kingdom",VH1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1841
+#EXTINF:-1 tvg-id="" tvg-name="Viceland UK" tvg-logo="http://tugapt.com/picons/vicelanduk.png" group-title="United Kingdom",Viceland UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1953
+#EXTINF:-1 tvg-id="W UK" tvg-name="W +1 UK" tvg-logo="http://tugapt.com/picons/wuk.png" group-title="United Kingdom",W +1 UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1904
+#EXTINF:-1 tvg-id="W UK" tvg-name="W UK" tvg-logo="http://tugapt.com/picons/wuk.png" group-title="United Kingdom",W UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1905
+#EXTINF:-1 tvg-id="YESTERDAY UK" tvg-name="YESTERDAY UK" tvg-logo="http://tugapt.com/picons/yesterdayuk.png" group-title="United Kingdom",YESTERDAY UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1906
+#EXTINF:-1 tvg-id="tru TV UK" tvg-name="tru TV UK" tvg-logo="http://tugapt.com/picons/trutvuk.png" group-title="United Kingdom",tru TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/1956
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png?raw=true" group-title="United Kingdom",Virgin Media One UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75511
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png?raw=true" group-title="United Kingdom",Virgin Media Two UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75512
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-three-uk.png?raw=true" group-title="United Kingdom",Virgin Media Three UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75514
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FHD UK" tvg-logo="https://banner2.cleanpng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg" group-title="United Kingdom",Red Bull TV FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75515
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV UK" tvg-logo="http://tugapt.com/picons/ducktvnl.png" group-title="United Kingdom",Duck TV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75516
+#EXTINF:-1 tvg-id="SSS Witness UK" tvg-name="Sky Witness HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-witness-uk.png?raw=true" group-title="United Kingdom",Sky Witness HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75517
+#EXTINF:-1 tvg-id="" tvg-name="British Muslim UK" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5485.1445606492.png" group-title="United Kingdom",British Muslim UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75518
+#EXTINF:-1 tvg-id="London Live UK" tvg-name="London Live UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/london-live-uk.png?raw=true" group-title="United Kingdom",London Live UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75519
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Superhero HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-cinema-superheroes-hz-uk.png?raw=true" group-title="United Kingdom",Sky Cinema Superhero HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75520
+#EXTINF:-1 tvg-id="" tvg-name="S Cinema Women FHD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-cinema-superheroes-hz-uk.png?raw=true" group-title="United Kingdom",S Cinema Women FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75521
+#EXTINF:-1 tvg-id="" tvg-name="Horse &amp; Country UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/horse-and-country-uk.png?raw=true" group-title="United Kingdom",Horse &amp; Country UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75522
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports UK" tvg-logo="https://cdn.imgbin.com/11/9/23/imgbin-setanta-sports-logo-television-brand-geography-history-armenian-U8vxbrYFGSShKhnRHaCP7Z607.jpg" group-title="United Kingdom",Setanta Sports UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/75523
+#EXTINF:-1 tvg-id="NOW 80s UK" tvg-name="Now 80s UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/now-80s-uk.png?raw=true" group-title="United Kingdom",Now 80s UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/78219
+#EXTINF:-1 tvg-id="SSS Comedy UK" tvg-name="Sky Comedy HD UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-comedy-de.png" group-title="United Kingdom",Sky Comedy HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/78291
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE UK" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="United Kingdom",BBC LIFESTYLE UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/79820
+#EXTINF:-1 tvg-id="Clubland TV UK" tvg-name="Clubland VIP UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/clubland-uk.png?raw=true" group-title="United Kingdom VIP",Clubland VIP UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/80957
+#EXTINF:-1 tvg-id="Clubland TV UK" tvg-name="Club MTV UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-club-uk.png?raw=true" group-title="United Kingdom",Club MTV UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/82755
+#EXTINF:-1 tvg-id="" tvg-name="Viceland HD US" tvg-logo="" group-title="United States",Viceland HD US
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/82833
+#EXTINF:-1 tvg-id="Outside Television US" tvg-name="Outside TV HD US" tvg-logo="" group-title="United States",Outside TV HD US
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/83214
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD UK" tvg-logo="http://tugapt.com/picons/fightnetworkpt.png" group-title="United Kingdom",Fight Network FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/83532
+#EXTINF:-1 tvg-id="" tvg-name="Revelation UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/revelation-tv-uk.png?raw=true" group-title="United Kingdom",Revelation UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/89940
+#EXTINF:-1 tvg-id="SSS Nature UK" tvg-name="Sky NATURE HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-nature-uk.png?raw=true" group-title="United Kingdom",Sky NATURE HD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/89975
+#EXTINF:-1 tvg-id="SSS Documentaries UK" tvg-name="Sky DOCUMENTARIES FHD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-documentaries-uk.png?raw=true" group-title="United Kingdom",Sky DOCUMENTARIES FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/89976
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTA 2 FHD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Mta2_al_taeni.jpg" group-title="United Kingdom",MTA 2 FHD UK
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/90059
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4K Ultra My" tvg-logo="" group-title="Malaysia",Astro SuperSport 4K Ultra My
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/11070
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League HD AF" tvg-logo="" group-title="Africa",SuperSport Premier League HD AF
+http://iptvdelta.123tv.to:8080/kHinK9ZEmr/5J2cHahufP/111460
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States",Smithsonian Channel US
